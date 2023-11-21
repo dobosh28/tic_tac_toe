@@ -13,11 +13,12 @@ No prerequisites are required for running the game, as the executable contains a
 ### Installing
 
 1. **Download the Game**:
-   - Download the `tic_tac_toe.exe` file from the `dist` directory in this repository (adjust the filename based on your platform and executable name).
-   
-2. **Run the Game**:
-   - On Windows, double-click the downloaded executable to start the game.
-   - On macOS or Linux, you might need to run it from the terminal with `./tic_tac_toe` (make sure the executable has running permissions).
+   - Download the entire repository which contains the game. You can do this by clicking the 'Clone or download' button and then 'Download ZIP', or by using a Git command if you're familiar with Git.
+   - Once downloaded, extract the ZIP file to a location of your choice.
+
+2. **Access the Executable**:
+   - Navigate to the `dist` directory inside the extracted folder.
+   - Find the `tic_tac_toe.exe` file (or the equivalent executable for your platform). This is the file you'll run to play the game.
 
 ## Playing the Game
 
